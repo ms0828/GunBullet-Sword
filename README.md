@@ -1,6 +1,6 @@
 # GUN-BULLET&SWORD
 
-![Title](images/Title.png)
+![Title](Images/Title.png)
 
 2D 횡스크롤 액션 유니티 프로젝트입니다.  
 검과 총을 함께 사용하는 플레이어가 튜토리얼, 잠입 구간, 일반 스테이지, 보스전을 거쳐 목표를 달성하는 구조로 작성되어 있습니다.
@@ -27,7 +27,7 @@
   - `TutorialManager.cs`
     - 튜토리얼 단계 관리
 
-    ![0](images/tutorial.gif)
+    ![0](Images/tutorial.gif)
 
 ### Player 설계
 
@@ -47,33 +47,33 @@
 - `HeadMachine.cs`
   - 수류탄 투척
 
-    ![1](images/bomb.gif)
+    ![1](Images/bomb.gif)
 
   - 잡기 공격
 
-    ![2](images/grab.gif)
+    ![2](Images/grab.gif)
 
 - `ArmMachine.cs`
   - 조준 후 사격
 
-    ![4](images/laser.gif)
+    ![4](Images/laser.gif)
 
   - 근접 칼 공격 
 
-    ![5](images/knife.gif)
+    ![5](Images/knife.gif)
 
 - `BossMonster.cs`
   - 돌진 공격
 
-    ![6](images/BossCrash.gif)
+    ![6](Images/BossCrash.gif)
 
   - 잡기 공격
 
-    ![7](images/BossGrab.gif)
+    ![7](Images/BossGrab.gif)
 
   - 조준 후 사격
 
-    ![8](images/BossLaser.gif)
+    ![8](Images/BossLaser.gif)
 
 
 
