@@ -54,6 +54,31 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/GUN-BULLET&SWORD_Data/
+/GUN-BULLET&SWORD_BurstDebugInformation_DoNotShip/
+/MonoBleedingEdge/
+
+# Assets media files excluded for code-only repository
+/Assets/**/*.png
+/Assets/**/*.png.meta
+/Assets/**/*.jpg
+/Assets/**/*.jpg.meta
+/Assets/**/*.jpeg
+/Assets/**/*.jpeg.meta
+/Assets/**/*.gif
+/Assets/**/*.gif.meta
+/Assets/**/*.svg
+/Assets/**/*.svg.meta
+/Assets/**/*.ai
+/Assets/**/*.ai.meta
+/Assets/**/*.eps
+/Assets/**/*.eps.meta
+/Assets/**/*.wav
+/Assets/**/*.wav.meta
+/Assets/**/*.mp3
+/Assets/**/*.mp3.meta
+/Assets/**/*.ogg
+/Assets/**/*.ogg.meta
 
 # Crashlytics generated file
 crashlytics-build.properties
