@@ -27,7 +27,7 @@
   - `TutorialManager.cs`
     - 튜토리얼 단계 관리
 
-    ![0](Images/tutorial.gif)
+    ![0](Images/Tutorial.gif)
 
 ### Player 설계
 
